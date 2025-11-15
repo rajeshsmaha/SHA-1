@@ -181,7 +181,7 @@ int main() {
 }
 ```
 # Output:
-<img width="1910" height="733" alt="Screenshot 2025-10-25 085341" src="https://github.com/user-attachments/assets/1be44799-f637-4ea4-8ea0-96b4b63c41b3" />
+<img width="817" height="358" alt="Screenshot 2025-11-15 091248" src="https://github.com/user-attachments/assets/68563f93-5672-41ff-8e98-1019b77892b5" />
 
 # Result:
 
